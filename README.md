@@ -18,6 +18,9 @@ PySimpleGUI, pandas, functools, matplotlib, math, pylab
 Before Starting up the tool:
 Changing Dataset directory/Using New Dataset:
 Open the “run.py” python script, scroll to the bottom where you see this:
+
+![alt text](https://github.com/sunsuntianyi/optimal_ats_stock/blob/master/data_dir.png)
+
 Change the directory of the three datasets (line 442 - 444) to your dataset directory. For using new datasets, please be remind that the structure (variable name) of the datasets have to be the same as the original datasets. 
 
 
